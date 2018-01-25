@@ -39,7 +39,7 @@ a
     list-style: none;
     width: 260px;
     left:0;
-    top:60px;
+    top:64px;
     padding:0;
 }
 .submenu-item
@@ -69,22 +69,21 @@ a
 
 main 
 {
-  width: 600px;
+  width: 800px;
   line-height: 1.6;
-    margin:0 25%;
+    margin:0 525px;
 }
 header
 {
     width: 400px;
-    margin:0 25%;
+    margin:0 525px;
     padding-top: 20px;
 }
 img
 {
-    position: absolute;
-    right: 0;
     float: right;
-    margin: 0 37% 0 0;
+    
+
 }
 
 
